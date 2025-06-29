@@ -5,12 +5,12 @@ It includes a trained ML model, a Flask web application for predictions, and cle
 
 ## 📁 Project Structure
 TrafficIntelligence/ │ ├── static/             
-# (Optional) Static assets like CSS/images ├── templates/ │   └── index.html          
-# HTML frontend for user input ├── app.py                  
-# Flask application file ├── requirements.txt       
-# Python dependencies ├── README.md                
-# Project description and setup ├── .gitignore            
-# Files excluded from Git └── 📦 model files (see below)
+ (Optional) Static assets like CSS/images ├── templates/ │   └── index.html          
+ HTML frontend for user input ├── app.py                  
+ Flask application file ├── requirements.txt       
+ Python dependencies ├── README.md                
+ Project description and setup ├── .gitignore            
+ Files excluded from Git └── 📦 model files (see below)
 
 ---
 
