@@ -22,7 +22,7 @@ Download them from Google Drive and place in the project folder:
 
 | File | Link |
 |------|------|
-| model.pkl | [Download](https://drive.google.com/your_model_link_here) |
+| model.pkl | [Download](https://drive.google.com/file/d/1og768KLoeVt3nuN0q_CMGtoN9spkoC03/view?usp=sharing)
 | encoder.pkl | [Download](https://drive.google.com/file/d/1U9guMU86cxuViy1ZYQYWpRu3xO3r4VDX/view?usp=drive_link)
 | scaler.pkl | [Download](https://drive.google.com/file/d/1fAcvHsQsVIOIvhqnszLy1S7Cu9GJKmuf/view?usp=drive_link)
 
