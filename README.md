@@ -58,7 +58,7 @@ Git LFS was removed to avoid large file uploads.
 Model must be downloaded manually before use.
 ---
 
-🙋‍♀️ Author
+#🙋‍♀️ Author
 Made by Chedulla Meghana
 Contact: m17531746@gmail.com
 
